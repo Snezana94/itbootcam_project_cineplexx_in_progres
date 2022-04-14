@@ -37,6 +37,6 @@ public class TestEvents {
 
     @AfterClass
     public void close() {
-        webDriver.close();
+        // webDriver.close();
     }
 }
